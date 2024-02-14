@@ -1,0 +1,6370 @@
+[
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:00:23"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:01:26"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:02:28"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:03:30"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:04:32"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:05:35"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:06:37"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:07:39"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:08:41"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:09:43"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:10:45"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 22.6753559112549,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:11:47"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:12:49"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:13:52"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:14:54"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:15:56"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:16:58"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:18:00"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:19:02"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:20:04"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:21:05"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:22:07"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:23:09"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:24:11"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:25:13"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:26:15"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:27:17"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:28:19"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:29:22"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:30:24"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:31:25"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.2172985076904,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:32:28"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:33:30"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:34:32"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:35:34"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:36:36"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:37:38"
+  },
+  {
+    "error": "Timeout 10000ms exceeded.",
+    "run_at": "2024-02-09 11:38:40"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:39:51"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:40:53"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:41:55"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:42:56"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:43:58"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:45:00"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:46:02"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:47:04"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:48:06"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:49:08"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:50:10"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:51:12"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:52:14"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 15.0251684188843,
+      "concurrent_orders": 2,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:53:16"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:54:18"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:55:20"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:56:22"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:57:24"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:58:26"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 11:59:28"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:00:30"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:01:32"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:02:34"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:03:36"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:04:38"
+  },
+  {
+    "online_orders_paused_until": "12:09 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:05:40"
+  },
+  {
+    "online_orders_paused_until": "12:09 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:06:42"
+  },
+  {
+    "online_orders_paused_until": "12:09 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:07:44"
+  },
+  {
+    "online_orders_paused_until": "12:09 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:08:46"
+  },
+  {
+    "online_orders_paused_until": "12:09 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:09:48"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:10:49"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:11:51"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:12:54"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 17.8080902099609,
+      "concurrent_orders": 3,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:13:55"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:14:57"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:16:00"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:17:03"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:18:05"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:19:07"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:20:09"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:21:11"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:22:12"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:23:14"
+  },
+  {
+    "online_orders_paused_until": "12:29 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:24:16"
+  },
+  {
+    "online_orders_paused_until": "12:29 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:25:18"
+  },
+  {
+    "online_orders_paused_until": "12:29 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:26:20"
+  },
+  {
+    "online_orders_paused_until": "12:29 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:27:22"
+  },
+  {
+    "online_orders_paused_until": "12:29 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:28:24"
+  },
+  {
+    "online_orders_paused_until": "12:29 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:29:26"
+  },
+  {
+    "online_orders_paused_until": "12:35 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:30:28"
+  },
+  {
+    "online_orders_paused_until": "12:35 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:31:30"
+  },
+  {
+    "online_orders_paused_until": "12:35 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:32:32"
+  },
+  {
+    "online_orders_paused_until": "12:35 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:33:34"
+  },
+  {
+    "online_orders_paused_until": "12:35 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 27.833459854126,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:34:36"
+  },
+  {
+    "online_orders_paused_until": "12:35 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:35:38"
+  },
+  {
+    "online_orders_paused_until": "12:46 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:36:40"
+  },
+  {
+    "online_orders_paused_until": "12:46 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:37:42"
+  },
+  {
+    "online_orders_paused_until": "12:46 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:38:44"
+  },
+  {
+    "online_orders_paused_until": "12:46 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:39:45"
+  },
+  {
+    "online_orders_paused_until": "12:46 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:40:48"
+  },
+  {
+    "online_orders_paused_until": "12:46 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:41:50"
+  },
+  {
+    "online_orders_paused_until": "12:46 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:42:52"
+  },
+  {
+    "online_orders_paused_until": "12:46 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:43:54"
+  },
+  {
+    "online_orders_paused_until": "12:46 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:44:56"
+  },
+  {
+    "online_orders_paused_until": "12:46 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:45:57"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:46:59"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:48:03"
+  },
+  {
+    "online_orders_paused_until": "12:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:49:04"
+  },
+  {
+    "online_orders_paused_until": "12:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:50:07"
+  },
+  {
+    "online_orders_paused_until": "12:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:51:08"
+  },
+  {
+    "online_orders_paused_until": "12:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:52:11"
+  },
+  {
+    "online_orders_paused_until": "12:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:53:14"
+  },
+  {
+    "online_orders_paused_until": "12:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.2905235290527,
+      "concurrent_orders": 34,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:54:16"
+  },
+  {
+    "online_orders_paused_until": "12:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:55:18"
+  },
+  {
+    "online_orders_paused_until": "12:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:56:21"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:57:23"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:58:25"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 12:59:28"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:00:30"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:01:32"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:02:34"
+  },
+  {
+    "online_orders_paused_until": "1:13 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:03:36"
+  },
+  {
+    "online_orders_paused_until": "1:13 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:04:38"
+  },
+  {
+    "online_orders_paused_until": "1:13 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:05:40"
+  },
+  {
+    "online_orders_paused_until": "1:13 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:06:42"
+  },
+  {
+    "online_orders_paused_until": "1:13 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:07:44"
+  },
+  {
+    "online_orders_paused_until": "1:13 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:08:46"
+  },
+  {
+    "online_orders_paused_until": "1:13 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:09:48"
+  },
+  {
+    "online_orders_paused_until": "1:13 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:10:50"
+  },
+  {
+    "online_orders_paused_until": "1:13 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:11:52"
+  },
+  {
+    "online_orders_paused_until": "1:13 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:12:54"
+  },
+  {
+    "online_orders_paused_until": "1:13 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:13:56"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.3494491577148,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:14:58"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:16:00"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:17:02"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:18:04"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:19:07"
+  },
+  {
+    "online_orders_paused_until": "1:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:20:08"
+  },
+  {
+    "online_orders_paused_until": "1:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:21:10"
+  },
+  {
+    "online_orders_paused_until": "1:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:22:12"
+  },
+  {
+    "online_orders_paused_until": "1:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:23:14"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:24:16"
+  },
+  {
+    "online_orders_paused_until": "1:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:25:18"
+  },
+  {
+    "online_orders_paused_until": "1:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:26:20"
+  },
+  {
+    "online_orders_paused_until": "1:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:27:22"
+  },
+  {
+    "online_orders_paused_until": "1:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:28:24"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:29:26"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:30:28"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:31:30"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:32:32"
+  },
+  {
+    "online_orders_paused_until": "1:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:33:34"
+  },
+  {
+    "online_orders_paused_until": "1:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:34:36"
+  },
+  {
+    "online_orders_paused_until": "1:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 29.9483127593994,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:35:38"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:36:40"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:37:42"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:38:43"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:39:45"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:40:47"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:41:49"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:42:51"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:43:53"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:44:55"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:45:58"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:47:00"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:48:02"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:49:03"
+  },
+  {
+    "online_orders_paused_until": "1:54 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:50:05"
+  },
+  {
+    "online_orders_paused_until": "1:54 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:51:07"
+  },
+  {
+    "online_orders_paused_until": "1:54 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:52:09"
+  },
+  {
+    "online_orders_paused_until": "1:54 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:53:11"
+  },
+  {
+    "online_orders_paused_until": "1:54 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:54:13"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 25.0877227783203,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:55:15"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:56:17"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:57:20"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:58:22"
+  },
+  {
+    "online_orders_paused_until": "2:03 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 13:59:24"
+  },
+  {
+    "online_orders_paused_until": "2:03 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:00:26"
+  },
+  {
+    "online_orders_paused_until": "2:03 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:01:28"
+  },
+  {
+    "online_orders_paused_until": "2:03 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:02:30"
+  },
+  {
+    "online_orders_paused_until": "2:03 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:03:32"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:04:34"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:05:36"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:06:38"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:07:40"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:08:42"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:09:44"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:10:46"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:11:48"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:12:50"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:13:52"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:14:54"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 28.3686256408691,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:15:56"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:16:58"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:18:00"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:19:02"
+  },
+  {
+    "online_orders_paused_until": "2:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:20:04"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:21:06"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:22:08"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:23:10"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:24:12"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:25:14"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:26:16"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:27:18"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:28:20"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:29:22"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:30:23"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:31:25"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:32:28"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:33:30"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:34:32"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2173614501953,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:35:34"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:36:35"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:37:39"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:38:41"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:39:43"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:40:45"
+  },
+  {
+    "online_orders_paused_until": "2:41 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:41:47"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:42:49"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:43:50"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:44:52"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:45:54"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:46:56"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:47:58"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:49:00"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:50:02"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:51:04"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:52:06"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:53:08"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:54:09"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:55:11"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 32.2703094482422,
+      "concurrent_orders": 39,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:56:13"
+  },
+  {
+    "online_orders_paused_until": "2:57 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:57:17"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:58:20"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 14:59:22"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:00:24"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:01:26"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:02:29"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:03:33"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:04:35"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:05:37"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:06:39"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:07:41"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:08:43"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:09:45"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:10:47"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:11:49"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:12:51"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:13:53"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:14:55"
+  },
+  {
+    "online_orders_paused_until": "3:20 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:15:57"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 31.9039993286133,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:16:59"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:18:01"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:19:03"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:20:05"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:21:07"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:22:09"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:23:11"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:24:13"
+  },
+  {
+    "online_orders_paused_until": "3:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:25:15"
+  },
+  {
+    "online_orders_paused_until": "3:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:26:17"
+  },
+  {
+    "online_orders_paused_until": "3:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:27:19"
+  },
+  {
+    "online_orders_paused_until": "3:28 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:28:21"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:29:23"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:30:25"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:31:27"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:32:29"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:33:31"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:34:33"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:35:35"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:36:37"
+  },
+  {
+    "online_orders_paused_until": "3:42 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 45.8250694274902,
+      "concurrent_orders": 30,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:37:39"
+  },
+  {
+    "online_orders_paused_until": "3:42 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:38:41"
+  },
+  {
+    "online_orders_paused_until": "3:42 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:39:43"
+  },
+  {
+    "online_orders_paused_until": "3:42 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:40:45"
+  },
+  {
+    "online_orders_paused_until": "3:42 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:41:47"
+  },
+  {
+    "online_orders_paused_until": "3:42 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:42:50"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:43:52"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:44:54"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:45:56"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:46:57"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:47:59"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:49:01"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:50:03"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:51:06"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:52:08"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:53:10"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:54:11"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:55:13"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:56:16"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:57:18"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.479923248291,
+      "concurrent_orders": 40,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:58:19"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 15:59:21"
+  },
+  {
+    "online_orders_paused_until": "4:00 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:00:24"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:01:25"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:02:27"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:03:29"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:04:31"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:05:33"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:06:35"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:07:37"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:08:39"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:09:41"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:10:43"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:11:45"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:12:47"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:13:50"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:14:52"
+  },
+  {
+    "online_orders_paused_until": "4:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:15:53"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:16:56"
+  },
+  {
+    "online_orders_paused_until": "4:27 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.1483917236328,
+      "concurrent_orders": 36,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:17:58"
+  },
+  {
+    "online_orders_paused_until": "4:27 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:19:00"
+  },
+  {
+    "online_orders_paused_until": "4:27 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:20:03"
+  },
+  {
+    "online_orders_paused_until": "4:27 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:21:05"
+  },
+  {
+    "online_orders_paused_until": "4:27 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:22:07"
+  },
+  {
+    "online_orders_paused_until": "4:27 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:23:08"
+  },
+  {
+    "online_orders_paused_until": "4:27 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:24:10"
+  },
+  {
+    "online_orders_paused_until": "4:27 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:25:12"
+  },
+  {
+    "online_orders_paused_until": "4:27 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:26:14"
+  },
+  {
+    "online_orders_paused_until": "4:27 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:27:16"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:28:18"
+  },
+  {
+    "online_orders_paused_until": "4:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:29:20"
+  },
+  {
+    "online_orders_paused_until": "4:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:30:22"
+  },
+  {
+    "online_orders_paused_until": "4:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:31:24"
+  },
+  {
+    "online_orders_paused_until": "4:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:32:26"
+  },
+  {
+    "online_orders_paused_until": "4:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:33:28"
+  },
+  {
+    "online_orders_paused_until": "4:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:34:30"
+  },
+  {
+    "online_orders_paused_until": "4:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:35:32"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:36:34"
+  },
+  {
+    "online_orders_paused_until": "4:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:37:35"
+  },
+  {
+    "online_orders_paused_until": "4:38 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:38:38"
+  },
+  {
+    "online_orders_paused_until": "4:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:39:40"
+  },
+  {
+    "online_orders_paused_until": "4:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:40:42"
+  },
+  {
+    "online_orders_paused_until": "4:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:41:44"
+  },
+  {
+    "online_orders_paused_until": "4:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:42:46"
+  },
+  {
+    "online_orders_paused_until": "4:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:43:48"
+  },
+  {
+    "online_orders_paused_until": "4:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:44:50"
+  },
+  {
+    "online_orders_paused_until": "4:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:45:52"
+  },
+  {
+    "online_orders_paused_until": "4:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:46:54"
+  },
+  {
+    "online_orders_paused_until": "4:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:47:56"
+  },
+  {
+    "online_orders_paused_until": "4:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:48:58"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:50:00"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:51:02"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:52:04"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:53:06"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:54:08"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:55:10"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:56:12"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:57:14"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:58:16"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 44.1389122009277,
+      "concurrent_orders": 38,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 16:59:18"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:00:20"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:01:23"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:02:25"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:03:27"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:04:29"
+  },
+  {
+    "online_orders_paused_until": "5:05 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:05:31"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:06:33"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:07:35"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:08:37"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:09:39"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:10:41"
+  },
+  {
+    "online_orders_paused_until": "5:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:11:43"
+  },
+  {
+    "online_orders_paused_until": "5:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:12:45"
+  },
+  {
+    "online_orders_paused_until": "5:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:13:47"
+  },
+  {
+    "online_orders_paused_until": "5:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:14:49"
+  },
+  {
+    "online_orders_paused_until": "5:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:15:51"
+  },
+  {
+    "online_orders_paused_until": "5:16 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:16:53"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:17:55"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:18:56"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.3687438964844,
+      "concurrent_orders": 32,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:19:59"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:21:01"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:22:04"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:23:05"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:24:07"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:25:09"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:26:12"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:27:13"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:28:16"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:29:18"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:30:19"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:31:21"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:32:23"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:33:25"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:34:27"
+  },
+  {
+    "online_orders_paused_until": "5:40 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:35:29"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:36:31"
+  },
+  {
+    "online_orders_paused_until": "5:40 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:37:33"
+  },
+  {
+    "online_orders_paused_until": "5:40 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:38:35"
+  },
+  {
+    "online_orders_paused_until": "5:40 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:39:37"
+  },
+  {
+    "online_orders_paused_until": "5:40 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.5584487915039,
+      "concurrent_orders": 24,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:40:39"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:41:41"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:42:43"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:43:45"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:44:47"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:45:49"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:46:51"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:47:53"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:48:55"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:49:57"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:50:59"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:52:01"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:53:03"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:54:05"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:55:07"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:56:09"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:57:11"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:58:13"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 17:59:15"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 55.9740600585938,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:00:17"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:01:19"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:02:21"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:03:23"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:04:25"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:05:27"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:06:29"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:07:31"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:08:33"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:09:35"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:10:37"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:11:39"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:12:41"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:13:43"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:14:45"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:15:47"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:16:49"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:17:51"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:18:53"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:19:55"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.6647148132324,
+      "concurrent_orders": 25,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:20:57"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:21:59"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:23:02"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:24:03"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:25:05"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:26:07"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:27:09"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:28:11"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:29:13"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:30:15"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:31:17"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:32:19"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:33:21"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:34:23"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:35:25"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:36:27"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:37:29"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:38:31"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:39:33"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:40:35"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 49.0224761962891,
+      "concurrent_orders": 4,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:41:37"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:42:39"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:43:41"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:44:43"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:45:45"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:46:47"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:47:49"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:48:51"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:49:53"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:50:55"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:51:57"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:52:59"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:54:01"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:55:03"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:56:05"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:57:07"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:58:10"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 18:59:12"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 19:00:13"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 19:01:15"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 50.2211456298828,
+      "concurrent_orders": 9,
+      "mean_store_pickup_time_min": 41.9724376025812
+    },
+    "run_at": "2024-02-09 19:02:18"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:03:20"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:04:22"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:05:24"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:06:26"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:07:28"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:08:30"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:09:32"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:10:34"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:11:36"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:12:38"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:13:40"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:14:42"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:15:44"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:16:46"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:17:48"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:18:50"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:19:52"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:20:54"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:21:56"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.6759605407715,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:22:58"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:24:00"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:25:09"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:26:11"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:27:13"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:28:15"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:29:17"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:30:19"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:31:21"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:32:23"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:33:25"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:34:27"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:35:29"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:36:31"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:37:33"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:38:35"
+  },
+  {
+    "online_orders_paused_until": "7:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:39:37"
+  },
+  {
+    "online_orders_paused_until": "7:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:40:39"
+  },
+  {
+    "online_orders_paused_until": "7:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:41:41"
+  },
+  {
+    "online_orders_paused_until": "7:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:42:43"
+  },
+  {
+    "online_orders_paused_until": "7:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.7505187988281,
+      "concurrent_orders": 27,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:43:45"
+  },
+  {
+    "online_orders_paused_until": "7:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:44:47"
+  },
+  {
+    "online_orders_paused_until": "7:49 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:45:50"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:46:52"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:47:54"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:48:56"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:49:58"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:51:01"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:52:03"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:53:05"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:54:07"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:55:09"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:56:10"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:57:12"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:58:14"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 19:59:16"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:00:18"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:01:20"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:02:22"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:03:24"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 57.1591758728027,
+      "concurrent_orders": 31,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:04:26"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:05:28"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:06:31"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:07:33"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:08:35"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:09:37"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:10:39"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:11:41"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:12:43"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:13:45"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:14:47"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:15:49"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:16:51"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:17:53"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:18:55"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:19:57"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:20:59"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:22:01"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:23:03"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:24:05"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 53.9214935302734,
+      "concurrent_orders": 37,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:25:07"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:26:09"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:27:12"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:28:13"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:29:15"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:30:17"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:31:19"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:32:21"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:33:23"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:34:25"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:35:27"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:36:29"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:37:31"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:38:32"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:39:34"
+  },
+  {
+    "online_orders_paused_until": "8:47 pm",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:40:37"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:41:39"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:42:41"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:43:43"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:44:45"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 51.3408470153809,
+      "concurrent_orders": 35,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:45:47"
+  },
+  {
+    "error": "HTTPSConnectionPool(host='api.snackpass.co', port=443): Read timed out. (read timeout=10)",
+    "run_at": "2024-02-09 20:46:49"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:47:59"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:49:01"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:50:03"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:51:05"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:52:07"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:53:09"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:54:11"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:55:13"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:56:16"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:57:17"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:58:19"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 20:59:21"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:00:23"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:01:25"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:02:27"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:03:29"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:04:31"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:05:33"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 47.637378692627,
+      "concurrent_orders": 16,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:06:35"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:07:37"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:08:40"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:09:42"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:10:44"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:11:46"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:12:48"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:13:50"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:14:52"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:15:54"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:16:56"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:17:58"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:19:00"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:20:02"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:21:04"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:22:06"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:23:08"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:24:10"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:25:12"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:26:14"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:27:16"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:28:17"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:29:21"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:30:23"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:31:25"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:32:27"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:33:29"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:34:31"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:35:32"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:36:35"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:37:36"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:38:39"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:39:41"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:40:43"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:41:44"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:42:46"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:43:49"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:44:50"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:45:52"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:46:54"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:47:56"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:48:58"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:50:01"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:51:03"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:52:05"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:53:07"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:54:09"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:55:11"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:56:13"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:57:15"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:58:17"
+  },
+  {
+    "online_orders_paused_until": "no pause",
+    "online_order_wait_time": "no estimate",
+    "pickup_estimate": {
+      "predicted_wait_time_min": 23.968017578125,
+      "concurrent_orders": 0,
+      "mean_store_pickup_time_min": 41.926071635001
+    },
+    "run_at": "2024-02-09 21:59:19"
+  }
+]
